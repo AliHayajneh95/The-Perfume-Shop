@@ -1,0 +1,39 @@
+body
+{
+   background-image: url('bg.jpg');
+   background-size: 100%;
+   background-repeat: no-repeat;
+}
+
+h1
+{
+    text-align: center;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    color: white;
+    box-shadow: 2px 2px 2px grey;
+    background-color: black;
+}
+
+form 
+{
+    background-color: #3a303099;
+    float: left;
+    margin-left: 100px;
+    box-shadow: 2px 2px 2px grey;
+}
+
+input
+{
+    text-align: center;
+    display: block;
+}
+
+table
+{
+    float: left;
+    margin-left: 50px;
+    background-color: #3a303099;
+    border: 1px;
+    box-shadow: 2px 2px 2px grey;
+}
